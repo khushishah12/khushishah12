@@ -66,6 +66,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khushishah12&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khushishah12&theme=tokyonight" />
+</p>
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=khushishah12&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
