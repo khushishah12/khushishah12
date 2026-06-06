@@ -62,3 +62,9 @@
   <img width="48" src="https://cdn.simpleicons.org/supabase" />
   <img width="48" src="https://cdn.simpleicons.org/vercel" />
 </p>
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=khushishah12&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushishah12&layout=compact)
