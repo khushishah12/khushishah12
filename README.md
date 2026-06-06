@@ -52,7 +52,7 @@
 <p>
   <img width="48" src="https://cdn.simpleicons.org/jupyter" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img width="48" src="https://cdn.simpleicons.org/seaborn" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
   
 </p>
 
