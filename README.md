@@ -39,13 +39,17 @@
 ## 🤖 AI / ML
 
 <p>
-  <img src="https://skillicons.dev/icons?i=NumPy,Pandas,Scikit-learn,TensorFlow,LangChain,Vector Databases" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-000000?logo=chainlink&logoColor=white">,TensorFlow,Vector Databases
 </p>
 
 ## 📊 Data Science
 
 <p>
-  <img src="https://skillicons.dev/icons?i=Jupyter Notebook,Matplotlib,Seaborn" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white">
+  Matplotlib,Seaborn
 </p>
 
 ## ☁️ Cloud & Deployment
