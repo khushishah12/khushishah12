@@ -53,6 +53,9 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white">
   <img width="48" src="https://cdn.simpleicons.org/matplotlib" />
   <img width="48" src="https://cdn.simpleicons.org/seaborn" />
+    <img width="48" src="https://cdn.simpleicons.org/jupyter" />
+  <img width="48" src="https://cdn.simpleicons.org/matplotlib" />
+  <img width="48" src="https://cdn.simpleicons.org/seaborn" />
 </p>
 
 ## ☁️ Cloud & Deployment
