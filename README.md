@@ -66,5 +66,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=khushishah12&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushishah12&theme=tokyo-night&hide_border=true" />
 </p>
