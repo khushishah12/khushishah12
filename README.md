@@ -63,8 +63,8 @@
   <img width="48" src="https://cdn.simpleicons.org/vercel" />
 </p>
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
-![Stats](https://github-readme-stats.vercel.app/api?username=khushishah12&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushishah12&layout=compact)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=khushishah12&theme=tokyonight&hide_border=true" />
+</p>
