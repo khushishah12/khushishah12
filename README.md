@@ -15,13 +15,13 @@
 ## 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,c,cpp" />
 </p>
 
 ## ⚙️ Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,JWT Authentication" />
 </p>
 
 ## 🗄️ Databases
@@ -33,5 +33,23 @@
 ## 🛠️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,Linux" />
+</p>
+
+## 🤖 AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=NumPy,Pandas,Scikit-learn,TensorFlow,LangChain,Vector Databases" />
+</p>
+
+## 📊 Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=Jupyter Notebook,Matplotlib,Seaborn" />
+</p>
+
+## ☁️ Cloud & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=Vercel,Supabase" />
 </p>
