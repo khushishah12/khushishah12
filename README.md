@@ -50,11 +50,8 @@
 ## 📊 Data Science
 
 <p>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white">
-  <img width="48" src="https://cdn.simpleicons.org/matplotlib" />
-  <img width="48" src="https://cdn.simpleicons.org/seaborn" />
-    <img width="48" src="https://cdn.simpleicons.org/jupyter" />
-  <img width="48" src="[https://cdn.simpleicons.org/matplotlib](https://share.google/1Yx9yOb92hgo89RoZ)" />
+  <img width="48" src="https://cdn.simpleicons.org/jupyter" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
   <img width="48" src="https://cdn.simpleicons.org/seaborn" />
   
 </p>
