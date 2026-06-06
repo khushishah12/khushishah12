@@ -33,7 +33,8 @@
 ## 🛠️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,Linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </p>
 
 ## 🤖 AI / ML
@@ -42,7 +43,8 @@
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white">
-  <img src="https://img.shields.io/badge/LangChain-000000?logo=chainlink&logoColor=white">,TensorFlow,Vector Databases
+  <img src="https://img.shields.io/badge/LangChain-000000?logo=chainlink&logoColor=white">
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />,Vector Databases
 </p>
 
 ## 📊 Data Science
@@ -55,5 +57,6 @@
 ## ☁️ Cloud & Deployment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=Vercel,Supabase" />
+  <img width="48" src="https://cdn.simpleicons.org/supabase" />
+  <img width="48" src="https://cdn.simpleicons.org/vercel" />
 </p>
