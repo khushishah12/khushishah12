@@ -44,14 +44,15 @@
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white">
   <img src="https://img.shields.io/badge/LangChain-000000?logo=chainlink&logoColor=white">
-  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />,Vector Databases
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" >
 </p>
 
 ## 📊 Data Science
 
 <p>
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white">
-  Matplotlib,Seaborn
+  <img width="48" src="https://cdn.simpleicons.org/matplotlib" />
+  <img width="48" src="https://cdn.simpleicons.org/seaborn" />
 </p>
 
 ## ☁️ Cloud & Deployment
