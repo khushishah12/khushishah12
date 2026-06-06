@@ -21,7 +21,7 @@
 ## ⚙️ Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,JWT Authentication" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
 </p>
 
 ## 🗄️ Databases
