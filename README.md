@@ -80,27 +80,16 @@
 
 ## 🌟 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 disaster-management
-A production-ready full stack application with authentication and database integration.
-
-**Tech Stack:** Next.js (React),Supabase,Tailwind CSS
-
-🔗 [YOUR_REPO_LINK](https://github.com/khushishah12/disaster-management)
-
-</td>
-</tr>
-</table>
+| Project | Description | Repo & Demo Link |
+|--------|-------------|-----------|
+| disaster-management | Real-time disaster alert and management system for coordinated response and resource tracking. | [🔗 Repo](https://github.com/khushishah12/disaster-management) |
 
 ## 🛠️ Other Projects
 
 | Project | Description | Repo & Demo Link |
 |--------|-------------|-----------|
-|🌱 Seed | Smart Trading & Portfolio Tracking Platform | [🔗 Repo](https://github.com/Naman-iitm/Seed-Smart-Trading-Portfolio-Tracking-Platform-) |
-| 🏥 Sehat Saathi | AI-powered healthcare accessibility platform | [🔗 Demo](https://sehat-saathi-guide.netlify.app/) |
-| 📈 Smart Portfolio Optimizer | Modern Portfolio Theory based optimizer| [🔗 Repo](https://github.com/Naman-iitm/Smart-Portfolio-Optimizer) |
-| 🚀 Indothon | Futuristic Hackathon Website | [🔗 Demo](https://indothon.netlify.app) |
+| Share-a-Cab | web app that helps users find and share cab rides with others traveling to the same location. | [🔗 Repo](https://github.com/khushishah12/Share-a-Cab) |
+| eduquest | interactive quiz platform designed for students and educators, offering customizable quizzes | [🔗 Repo](https://github.com/khushishah12/eduquest) |
+| TasteBite | restaurant website showcasing a vibrant menu, chef specials, and online reservation features.| [🔗 Repo](https://github.com/khushishah12/TasteBite) |
+| VendorBridge | Hackathon-focused full-stack platform for vendor and service coordination. | [🔗 Repo](https://github.com/khushishah12/VendorBridge) |
 
