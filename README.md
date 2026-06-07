@@ -100,6 +100,10 @@
 ## 📜 Certifications and Badges
 
 > ✅ Certificate Of Appreciation in Internal Round - SIH 2025
-> ✅ Machine Learning with Python - IBM 
+> 
+> ✅ Machine Learning with Python - IBM
+>  
 > ✅ Introduction to deep learning with keras - IBM
-> ✅ Deep Learning with Keras and Tensorflow - IBM  
+> 
+> ✅ Deep Learning with Keras and Tensorflow - IBM
+>   
