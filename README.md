@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Khushi+Shah;B.Tech+CSE+Student;Full+Stack+Developer;AI+%26+ML+Enthusiast" />
 </p>
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=AAAAAA&center=true&vCenter=true&multiline=false&width=900&height=40&lines=Institute+of+Technology%2C+Nirma+University" alt="Typing SVG" />
+</h3>
+
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech CSE Student
@@ -93,3 +97,9 @@
 | TasteBite | restaurant website showcasing a vibrant menu, chef specials, and online reservation features.| [🔗 Repo](https://github.com/khushishah12/TasteBite) |
 | VendorBridge | Hackathon-focused full-stack platform for vendor and service coordination. | [🔗 Repo](https://github.com/khushishah12/VendorBridge) |
 
+## 📜 Certifications and Badges
+
+> ✅ Certificate Of Appreciation in Internal Round - SIH 2025
+> ✅ Machine Learning with Python - IBM 
+> ✅ Introduction to deep learning with keras - IBM
+> ✅ Deep Learning with Keras and Tensorflow - IBM  
