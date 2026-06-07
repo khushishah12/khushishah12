@@ -97,48 +97,10 @@ A production-ready full stack application with authentication and database integ
 
 ## 🛠️ Other Projects
 
-<table>
-<tr>
-<td width="50%">
+| Project | Description | Repo & Demo Link |
+|--------|-------------|-----------|
+|🌱 Seed | Smart Trading & Portfolio Tracking Platform | [🔗 Repo](https://github.com/Naman-iitm/Seed-Smart-Trading-Portfolio-Tracking-Platform-) |
+| 🏥 Sehat Saathi | AI-powered healthcare accessibility platform | [🔗 Demo](https://sehat-saathi-guide.netlify.app/) |
+| 📈 Smart Portfolio Optimizer | Modern Portfolio Theory based optimizer| [🔗 Repo](https://github.com/Naman-iitm/Smart-Portfolio-Optimizer) |
+| 🚀 Indothon | Futuristic Hackathon Website | [🔗 Demo](https://indothon.netlify.app) |
 
-### 📊 Student Result Management
-
-A database-driven application for managing student records.
-
-🔗 [Repository](YOUR_REPO_LINK)
-
-</td>
-
-<td width="50%">
-
-### 🎯 Quiz Website
-
-Interactive quiz platform with CRUD question management.
-
-🔗 [Repository](YOUR_REPO_LINK)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🤖 ML Prediction Project
-
-Machine learning model for prediction and analysis.
-
-🔗 [Repository](YOUR_REPO_LINK)
-
-</td>
-
-<td width="50%">
-
-### 💡 Personal Portfolio
-
-Responsive developer portfolio website.
-
-🔗 [Repository](YOUR_REPO_LINK)
-
-</td>
-</tr>
-</table>
