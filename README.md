@@ -77,3 +77,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushishah12&theme=tokyo-night&hide_border=true" />
 </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushishah12&show_icons=true&locale=en&layout=compact" alt="khushishah12" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushishah12&" alt="khushishah12" /></p>
+
+
