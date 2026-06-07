@@ -94,3 +94,51 @@ A production-ready full stack application with authentication and database integ
 </td>
 </tr>
 </table>
+
+## 🛠️ Other Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📊 Student Result Management
+
+A database-driven application for managing student records.
+
+🔗 [Repository](YOUR_REPO_LINK)
+
+</td>
+
+<td width="50%">
+
+### 🎯 Quiz Website
+
+Interactive quiz platform with CRUD question management.
+
+🔗 [Repository](YOUR_REPO_LINK)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 ML Prediction Project
+
+Machine learning model for prediction and analysis.
+
+🔗 [Repository](YOUR_REPO_LINK)
+
+</td>
+
+<td width="50%">
+
+### 💡 Personal Portfolio
+
+Responsive developer portfolio website.
+
+🔗 [Repository](YOUR_REPO_LINK)
+
+</td>
+</tr>
+</table>
