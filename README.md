@@ -77,8 +77,20 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushishah12&theme=tokyo-night&hide_border=true" />
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushishah12&show_icons=true&locale=en&layout=compact" alt="khushishah12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushishah12&" alt="khushishah12" /></p>
+## 🌟 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
 
+### 🌐 disaster-management
+A production-ready full stack application with authentication and database integration.
+
+**Tech Stack:** Next.js (React),Supabase,Tailwind CSS
+
+🔗 [YOUR_REPO_LINK](https://github.com/khushishah12/disaster-management)
+
+</td>
+</tr>
+</table>
